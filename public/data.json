@@ -1,0 +1,147 @@
+[
+    {
+      "id": 1,
+      "room_name": "Ocean View Suite",
+      "guests": 2,
+      "bedrooms": 1,
+      "beds": 1,
+      "baths": 1,
+      "rating": 4.5,
+      "rated_people": 256,
+      "price": 150,
+      "location": "Inani Beach, Cox's Bazar, Bangladesh"
+    },
+    {
+      "id": 2,
+      "room_name": "Luxury Beachfront Villa",
+      "guests": 4,
+      "bedrooms": 2,
+      "beds": 2,
+      "baths": 2,
+      "rating": 4.8,
+      "rated_people": 312,
+      "price": 300,
+      "location": "Laboni Beach, Cox's Bazar, Bangladesh"
+    },
+    {
+      "id": 3,
+      "room_name": "Deluxe Seaview Room",
+      "guests": 2,
+      "bedrooms": 1,
+      "beds": 1,
+      "baths": 1,
+      "rating": 4.2,
+      "rated_people": 189,
+      "price": 120,
+      "location": "Kolatoli Beach, Cox's Bazar, Bangladesh"
+    },
+    {
+      "id": 4,
+      "room_name": "Cozy Cottage",
+      "guests": 3,
+      "bedrooms": 1,
+      "beds": 2,
+      "baths": 1,
+      "rating": 4.0,
+      "rated_people": 135,
+      "price": 90,
+      "location": "Dariapara, Cox's Bazar, Bangladesh"
+    },
+    {
+      "id": 5,
+      "room_name": "Beachfront Bungalow",
+      "guests": 4,
+      "bedrooms": 2,
+      "beds": 2,
+      "baths": 2,
+      "rating": 4.7,
+      "rated_people": 278,
+      "price": 250,
+      "location": "Shah Porir Dwip, Cox's Bazar, Bangladesh"
+    },
+    {
+      "id": 6,
+      "room_name": "Seaside Villa",
+      "guests": 3,
+      "bedrooms": 1,
+      "beds": 1,
+      "baths": 1,
+      "rating": 4.3,
+      "rated_people": 201,
+      "price": 130,
+      "location": "Kalatali Beach, Cox's Bazar, Bangladesh"
+    },
+    {
+      "id": 7,
+      "room_name": "Family Suite",
+      "guests": 5,
+      "bedrooms": 2,
+      "beds": 3,
+      "baths": 2,
+      "rating": 4.6,
+      "rated_people": 325,
+      "price": 280,
+      "location": "Kuakata Beach, Cox's Bazar, Bangladesh"
+    },
+    {
+      "id": 8,
+      "room_name": "Hilltop Retreat",
+      "guests": 2,
+      "bedrooms": 1,
+      "beds": 1,
+      "baths": 1,
+      "rating": 4.1,
+      "rated_people": 175,
+      "price": 110,
+      "location": "Himchari, Cox's Bazar, Bangladesh"
+    },
+    {
+      "id": 9,
+      "room_name": "Sunset View Cabin",
+      "guests": 2,
+      "bedrooms": 1,
+      "beds": 1,
+      "baths": 1,
+      "rating": 4.4,
+      "rated_people": 223,
+      "price": 140,
+      "location": "Saint Martin's Island, Cox's Bazar, Bangladesh"
+    },
+    {
+      "id": 10,
+      "room_name": "Beachside Retreat",
+      "guests": 4,
+      "bedrooms": 2,
+      "beds": 2,
+      "baths": 2,
+      "rating": 4.7,
+      "rated_people": 312,
+      "price": 260,
+      "location": "Inani Beach, Cox's Bazar, Bangladesh"
+    },
+    {
+      "id": 11,
+      "room_name": "Tropical Paradise Villa",
+      "guests": 6,
+      "bedrooms": 3,
+      "beds": 3,
+      "baths": 3,
+      "rating": 4.9,
+      "rated_people": 398,
+      "price": 400,
+      "location": "Laboni Beach, Cox's Bazar, Bangladesh"
+    },
+    {
+      "id": 12,
+      "room_name": "Seaview Penthouse",
+      "guests": 2,
+      "bedrooms": 1,
+      "beds": 1,
+      "baths": 1,
+      "rating": 4.6,
+      "rated_people": 275,
+      "price": 180,
+      "location": "Kolatoli Beach, Cox's Bazar, Bangladesh"
+    }
+  ]
+  
